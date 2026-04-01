@@ -1,0 +1,11 @@
+C:\work\git\test\binViewer\binViewer\bin\Debug\binViewer.exe.config
+C:\work\git\test\binViewer\binViewer\bin\Debug\binViewer.exe
+C:\work\git\test\binViewer\binViewer\bin\Debug\binViewer.pdb
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.csproj.AssemblyReference.cache
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.csproj.SuggestedBindingRedirects.cache
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.Form1.resources
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.Properties.Resources.resources
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.csproj.GenerateResource.cache
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.csproj.CoreCompileInputs.cache
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.exe
+C:\work\git\test\binViewer\binViewer\obj\Debug\binViewer.pdb
