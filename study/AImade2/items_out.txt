@@ -1,0 +1,4 @@
+1 apple 50
+2 banana 30
+3 orange 20
+4 grape 100
